@@ -164,11 +164,6 @@
 | ◈ Platform | Description | Link |
 |:---|:---|:---:|
 | 🧬 **RathBiotaClan** | MSME-certified science portal — 450+ research articles | [![Visit](https://img.shields.io/badge/Visit-7c6af7?style=flat-square)](https://www.rathbiotaclan.com) |
-| 🛒 **RathBiotaClan Shop** | Premium eBooks, Science Magazines & Study Notes | [![Shop](https://img.shields.io/badge/Shop-b39ddb?style=flat-square)](https://rathbiotaclan.com/shop) |
-| 🧮 **Biological Age Calculator** | Health parameter web app using biological markers | [![Try](https://img.shields.io/badge/Try-7c6af7?style=flat-square)](https://rathbiotaclan.com) |
-| 🌐 **bioinfotika.com** | BJB Autonomous College Bioinformatics Dept. site | [![Visit](https://img.shields.io/badge/Visit-b39ddb?style=flat-square)](http://www.bioinfotika.com) |
-| 💡 **VibeMotive** | Science-backed motivation & wellness platform | [![Visit](https://img.shields.io/badge/Visit-7c6af7?style=flat-square)](https://vibemotive.com) |
-| 📖 **The Purr Paradox** | Debut RathBiotaClan Science Magazine Vol. 01 | [![Get](https://img.shields.io/badge/Get-b39ddb?style=flat-square)](https://rathbiotaclan.com/shop) |
 
 </div>
 
